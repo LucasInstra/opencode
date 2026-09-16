@@ -36,3 +36,7 @@
 ):not(:disabled) {
   cursor: default !important;
 }
+
+.settings-extension-link {
+  cursor: pointer;
+}
